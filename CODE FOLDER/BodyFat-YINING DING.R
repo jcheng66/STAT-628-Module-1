@@ -1,4 +1,4 @@
-#setwd("C:/Users/Ibara Jin/Desktop/伊原尋/学习/STAT628统计实习/Module1")
+#setwd("C:/Users/Ibara Jin/Desktop/脪脕脭颅艗陇/脩搂脧掳/STAT628脥鲁录脝脢碌脧掳/Module1")
 library(dplyr)
 
 data=read.table("Bodyfat.csv",sep=",",header=T)
